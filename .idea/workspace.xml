@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6994fa15-afef-485a-9465-23dbb5ecfe5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PainelSenha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GerarBeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Painel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="6994fa15-afef-485a-9465-23dbb5ecfe5a" name="Changes" comment="Gerado na TI em 09/06/2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +80,28 @@
       <option name="presentableId" value="Default" />
       <updated>1749483765796</updated>
     </task>
+    <task id="LOCAL-00001" summary="Gerado na TI em 09/06/2025">
+      <option name="closed" value="true" />
+      <created>1749501650021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749501650022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Gerado na TI em 09/06/2025">
+      <option name="closed" value="true" />
+      <created>1749501717481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749501717481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gerado na TI em 09/06/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gerado na TI em 09/06/2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
